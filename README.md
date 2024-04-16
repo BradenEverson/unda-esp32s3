@@ -14,6 +14,3 @@ To create a new project based on this template, run:
 ```bash
 cargo generate -BradenEverson/unda-esp32s3
 ```
-
-Acknowledgements
-This template is designed to provide a quick start for embedded ML projects on the ESP32-S3 using Rust. It is inspired by the efforts of the Rust and ESP-IDF communities to make embedded programming more accessible and efficient.
