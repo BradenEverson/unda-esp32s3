@@ -1,5 +1,5 @@
 [package]
-name = "embedded-ml"
+name = "{{project-name}}"
 version = "0.1.0"
 authors = ["Braden-Everson <eversonb@msoe.edu>"]
 edition = "2021"
